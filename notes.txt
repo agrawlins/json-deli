@@ -1,0 +1,11 @@
+Examples of JSON
+{
+    "name":"Steve",
+    "age": 20,
+    "isAlive": true,
+    "friends": ["john", "betty", "jake"],
+    "address": {
+        "street": "123 street",
+        "city": "SLC"
+    }
+}
